@@ -1,0 +1,64 @@
+﻿{
+  "Courses": [
+    {
+      "CourseId": 2,
+      "Name": "前来训练",
+      "SkillName": "前来",
+      "Type": 12,
+      "StepCount": 3,
+      "DefaultSignal": "来",
+      "Introduction": "很多人带狗狗到户外游玩，不敢松开牵引绳，担心狗狗乱跑甚至一去不返。本课程的目的是为了学习和强化前来训练，实现每叫必回，推荐狗友们都看看。",
+      "PreCourseTags": []
+    },
+    {
+      "CourseId": 3,
+      "Name": "坐下训练",
+      "SkillName": "坐下",
+      "Type": 12,
+      "StepCount": 3,
+      "DefaultSignal": "坐",
+      "Introduction": "很多主人经常埋怨自己的狗狗坐不住，因为传统的教学方式只是让狗建立坐下动作的条件反射，但这种训练很难运用到生活中。我们的宗旨是让宠物更融入生活，所以这篇课程将教你如何让狗狗学会真正的坐下。",
+      "PreCourseTags": []
+    },
+    {
+      "CourseId": 1,
+      "Name": "姓名响应训练",
+      "SkillName": "姓名响应",
+      "Type": 12,
+      "StepCount": 3,
+      "DefaultSignal": "",
+      "Introduction": "每一只狗狗都会有属于自己的名字，此项训练目的是当你叫出狗狗名字时，它能快速的响应，并等待下一步指令。名字是日常生活中用到的最频繁的指令了。如果已经学习过，不妨也可以看看。",
+      "PreCourseTags": []
+    }
+  ],
+  "TypeConfig": {
+    "CorrectCourse": [
+      {
+        "Image": "titleicon_72",
+        "TypeTitle": "TrainCourseTypeTitle_1",
+        "Type": 21,
+        "Name": "生活礼仪训练"
+      },
+      {
+        "Image": "titleicon_73",
+        "TypeTitle": "TrainCourseTypeTitle_1",
+        "Type": 22,
+        "Name": "社会礼仪训练"
+      }
+    ],
+    "TrainCourse": [
+      {
+        "Image": "titleicon_28",
+        "TypeTitle": "TrainCourseTypeTitle_1",
+        "Type": 12,
+        "Name": "语言理解训练"
+      },
+      {
+        "Image": "titleicon_27",
+        "TypeTitle": "TrainCourseTypeTitle_1",
+        "Type": 13,
+        "Name": "组合口令训练"
+      }
+    ]
+  }
+}

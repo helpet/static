@@ -1,0 +1,4528 @@
+﻿{
+    "PetKindTypeConfig": [
+        {
+            "Type": 0,
+            "Name": "其他类型"
+        },
+		{
+            "Type": 1,
+            "Name": "枪猎犬"
+        },
+        {
+            "Type": 2,
+            "Name": "狩猎犬"
+        },
+		{
+            "Type": 3,
+            "Name": "工作犬"
+        },
+		{
+            "Type": 4,
+            "Name": "梗类犬"
+        },
+        {
+            "Type": 5,
+            "Name": "玩具犬"
+        }
+    ],
+    "AdultBodySizeConfig": [
+        {
+            "Size": 0,
+            "Name": "其他"
+        },
+		{
+            "Size": 1,
+            "Name": "迷你型"
+        },
+        {
+            "Size": 2,
+            "Name": "小型"
+        },
+        {
+            "Size": 3,
+            "Name": "中型"
+        },
+        {
+            "Size": 4,
+            "Name": "大型"
+        },
+        {
+            "Size": 5,
+            "Name": "超大型"
+        }
+    ],
+	"TagsConfig": [
+        {
+            "Type": 0,
+            "Name": "其他类型"
+        },
+		{
+            "Type": 1,
+            "Name": "激飞猎犬"
+        },
+        {
+            "Type": 2,
+            "Name": "寻回犬"
+        },
+		{
+            "Type": 3,
+            "Name": "指示猎犬"
+        },
+		{
+            "Type": 4,
+            "Name": "雪达犬"
+        },
+        {
+            "Type": 5,
+            "Name": "水猎犬"
+        },
+		{
+            "Type": 6,
+            "Name": "视觉猎犬"
+        },
+		{
+            "Type": 7,
+            "Name": "嗅觉猎犬"
+        },
+		{
+            "Type": 8,
+            "Name": "群猎犬"
+        },
+		{
+            "Type": 9,
+            "Name": "梗类犬"
+        },
+		{
+            "Type": 10,
+            "Name": "猛犬"
+        },
+		{
+            "Type": 11,
+            "Name": "护卫犬"
+        },
+		{
+            "Type": 12,
+            "Name": "獒犬"
+        },
+		{
+            "Type": 13,
+            "Name": "牧羊犬"
+        },
+		{
+            "Type": 14,
+            "Name": "牧牛犬"
+        },
+		{
+            "Type": 15,
+            "Name": "雪橇犬"
+        },
+		{
+            "Type": 16,
+            "Name": "玩具犬"
+        }
+    ],
+	"PelageConfig": [
+        {
+            "Type": 0,
+            "Name": "其他类型"
+        },
+		{
+            "Type": 1,
+            "Name": "平滑毛"
+        },
+        {
+            "Type": 2,
+            "Name": "刚毛"
+        },
+		{
+            "Type": 3,
+            "Name": "卷曲毛"
+        },
+		{
+            "Type": 4,
+            "Name": "索毛型"
+        },
+        {
+            "Type": 5,
+            "Name": "双层长毛"
+        },
+		{
+            "Type": 6,
+            "Name": "双层短毛"
+        },
+		{
+            "Type": 7,
+            "Name": "纤丝毛"
+        },
+		{
+            "Type": 8,
+            "Name": "无毛型"
+        }
+    ],
+	"NoseTypeConfig": [
+        {
+            "Type": 0,
+            "Name": "其他类型"
+        },
+		{
+            "Type": 1,
+            "Name": "短鼻道"
+        },
+        {
+            "Type": 2,
+            "Name": "中鼻道"
+        },
+		{
+            "Type": 3,
+            "Name": "长鼻道"
+        }
+    ],
+	"EarTypeConfig": [
+        {
+            "Type": 0,
+            "Name": "其他类型"
+        },
+		{
+            "Type": 1,
+            "Name": "立耳"
+        },
+        {
+            "Type": 2,
+            "Name": "半折耳"
+        },
+		{
+            "Type": 3,
+            "Name": "全折耳"
+        }
+    ],
+    "Data": [
+  {
+    "Id": 1,
+    "Name": "中华田园犬",
+    "Class": 0,
+    "Tags": [
+      "0"
+    ],
+    "Pic": "pic1",
+    "AdultBodySize": 0,
+    "Type": 1,
+    "Pelage": 0,
+    "NoseType": 0,
+    "EarType": 0,
+    "Color": [
+      "0"
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "美国可卡犬",
+    "Class": 1,
+    "Tags": [
+      "1"
+    ],
+    "Pic": "pic2",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "301",
+      "200",
+      "404",
+      "305",
+      "306"
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "苏塞克斯猎犬",
+    "Class": 1,
+    "Tags": [
+      "1",
+      "3"
+    ],
+    "Pic": "pic3",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "301",
+      "300",
+      "100"
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "拉布拉多寻回犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic4",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "102",
+      "300",
+      "200"
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "英国可卡犬",
+    "Class": 1,
+    "Tags": [
+      "1"
+    ],
+    "Pic": "pic5",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "301",
+      "403",
+      "404",
+      "306"
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "史宾格犬（英国跳猎犬）",
+    "Class": 1,
+    "Tags": [
+      "1"
+    ],
+    "Pic": "pic6",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "404",
+      "306",
+      "201",
+      "204",
+      "407",
+      "207"
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "西班牙小猎犬",
+    "Class": 1,
+    "Tags": [
+      "1"
+    ],
+    "Pic": "pic7",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "204"
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "美国水猎犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic8",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "布列塔尼犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic9",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "204",
+      "404",
+      "407"
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "新斯科舍猎鸭寻猎犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic10",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 11,
+    "Name": "田野小猎犬",
+    "Class": 1,
+    "Tags": [
+      "1"
+    ],
+    "Pic": "pic11",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "401",
+      "402",
+      "300",
+      "301",
+      "302",
+      "404",
+      "405",
+      "406",
+      "305",
+      "306",
+      "307"
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "威尔士跳猎犬",
+    "Class": 1,
+    "Tags": [
+      "1"
+    ],
+    "Pic": "pic12",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "305",
+      "306",
+      "307"
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "博伊金猎犬",
+    "Class": 1,
+    "Tags": [
+      "2",
+      "1",
+      "3"
+    ],
+    "Pic": "pic13",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "金毛寻回犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic14",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "101",
+      "102",
+      "103"
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "爱尔兰雪达犬",
+    "Class": 1,
+    "Tags": [
+      "4"
+    ],
+    "Pic": "pic15",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301"
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "维希拉猎犬",
+    "Class": 1,
+    "Tags": [
+      "3"
+    ],
+    "Pic": "pic16",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "威玛犬",
+    "Class": 1,
+    "Tags": [
+      "3"
+    ],
+    "Pic": "pic17",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "401",
+      "402"
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "爱尔兰水猎犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic18",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301"
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "爱尔兰红白雪达犬",
+    "Class": 1,
+    "Tags": [
+      "4"
+    ],
+    "Pic": "pic19",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "204"
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "德国短毛波音达",
+    "Class": 1,
+    "Tags": [
+      "3"
+    ],
+    "Pic": "pic20",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "501",
+      "500"
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "戈登雪达犬（爱尔兰赛特犬）",
+    "Class": 1,
+    "Tags": [
+      "4"
+    ],
+    "Pic": "pic21",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301"
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "切萨皮克海湾寻回犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic22",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "卷毛寻回犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic23",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "300"
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "弗莱特寻回犬（平毛寻回犬）",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic24",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400"
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "德国刚毛指示犬",
+    "Class": 1,
+    "Tags": [
+      "3"
+    ],
+    "Pic": "pic25",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "501"
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "史毕诺犬",
+    "Class": 1,
+    "Tags": [
+      "2"
+    ],
+    "Pic": "pic26",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "300",
+      "301",
+      "204"
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "英格兰雪达犬",
+    "Class": 1,
+    "Tags": [
+      "4"
+    ],
+    "Pic": "pic27",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 28,
+    "Name": "硬毛指示格里芬犬",
+    "Class": 1,
+    "Tags": [
+      "3"
+    ],
+    "Pic": "pic28",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 29,
+    "Name": "波音达",
+    "Class": 1,
+    "Tags": [
+      "3"
+    ],
+    "Pic": "pic29",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "201",
+      "204",
+      "206"
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "比格猎犬",
+    "Class": 2,
+    "Tags": [
+      "8",
+      "7"
+    ],
+    "Pic": "pic30",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "407",
+      "207"
+    ]
+  },
+  {
+    "Id": 31,
+    "Name": "巴吉度犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic31",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "306",
+      "404",
+      "407",
+      "207"
+    ]
+  },
+  {
+    "Id": 32,
+    "Name": "小型葡萄牙波登可犬-短毛",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic32",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "300",
+      "301",
+      "306"
+    ]
+  },
+  {
+    "Id": 33,
+    "Name": "小型葡萄牙波登可犬-长毛",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic33",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "307"
+    ]
+  },
+  {
+    "Id": 34,
+    "Name": "迷你贝吉格里芬凡丁犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic34",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "206",
+      "203",
+      "207"
+    ]
+  },
+  {
+    "Id": 35,
+    "Name": "短毛腊肠犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic35",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "403",
+      "402"
+    ]
+  },
+  {
+    "Id": 36,
+    "Name": "刚毛腊肠犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic36",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 37,
+    "Name": "长毛腊肠犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic37",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "403",
+      "402"
+    ]
+  },
+  {
+    "Id": 38,
+    "Name": "猎兔犬(哈利犬)",
+    "Class": 2,
+    "Tags": [
+      "8",
+      "7"
+    ],
+    "Pic": "pic38",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "407",
+      "207"
+    ]
+  },
+  {
+    "Id": 39,
+    "Name": "惠比特犬",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic39",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 40,
+    "Name": "挪威猎鹿犬",
+    "Class": 2,
+    "Tags": [
+      "6",
+      "11"
+    ],
+    "Pic": "pic40",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 41,
+    "Name": "巴仙吉犬",
+    "Class": 2,
+    "Tags": [
+      "8",
+      "7",
+      "6"
+    ],
+    "Pic": "pic41",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "404",
+      "306",
+      "207"
+    ]
+  },
+  {
+    "Id": 42,
+    "Name": "阿富汗猎犬",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic42",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 43,
+    "Name": "法老王猎犬",
+    "Class": 2,
+    "Tags": [
+      "7",
+      "6"
+    ],
+    "Pic": "pic43",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "300",
+      "301",
+      "302",
+      "101"
+    ]
+  },
+  {
+    "Id": 44,
+    "Name": "寻血猎犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic44",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 45,
+    "Name": "英国猎狐犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic45",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "201",
+      "204",
+      "207"
+    ]
+  },
+  {
+    "Id": 46,
+    "Name": "罗得西亚脊背犬",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic46",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 47,
+    "Name": "普罗特猎犬",
+    "Class": 2,
+    "Tags": [
+      "8"
+    ],
+    "Pic": "pic47",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 48,
+    "Name": "美国猎狐犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic48",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "404",
+      "306",
+      "207"
+    ]
+  },
+  {
+    "Id": 49,
+    "Name": "红骨猎浣熊犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic49",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 50,
+    "Name": "猎水獭犬（奥达猎犬）",
+    "Class": 2,
+    "Tags": [
+      "8",
+      "7"
+    ],
+    "Pic": "pic50",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 51,
+    "Name": "黑褐猎浣熊犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic51",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "403"
+    ]
+  },
+  {
+    "Id": 52,
+    "Name": "树丛浣熊猎犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic52",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "207"
+    ]
+  },
+  {
+    "Id": 53,
+    "Name": "伊比赞猎犬",
+    "Class": 2,
+    "Tags": [
+      "7",
+      "6"
+    ],
+    "Pic": "pic53",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "204",
+      "305",
+      "306"
+    ]
+  },
+  {
+    "Id": 54,
+    "Name": "布鲁克浣熊猎犬",
+    "Class": 2,
+    "Tags": [
+      "7"
+    ],
+    "Pic": "pic54",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 55,
+    "Name": "英国猎浣熊犬",
+    "Class": 2,
+    "Tags": [
+      "8",
+      "7"
+    ],
+    "Pic": "pic55",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 56,
+    "Name": "爱尔兰猎狼犬",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic56",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "401",
+      "301",
+      "200",
+      "100",
+      "402"
+    ]
+  },
+  {
+    "Id": 57,
+    "Name": "苏俄猎狼犬",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic57",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 58,
+    "Name": "萨路基猎犬（波斯灵缇）",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic58",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "102",
+      "101，301",
+      "307",
+      "404"
+    ]
+  },
+  {
+    "Id": 59,
+    "Name": "格力犬（灵缇）",
+    "Class": 2,
+    "Tags": [
+      "6"
+    ],
+    "Pic": "pic59",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 60,
+    "Name": "苏格兰猎鹿犬",
+    "Class": 2,
+    "Tags": [
+      "6",
+      "7"
+    ],
+    "Pic": "pic60",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "401",
+      "402",
+      "300",
+      "100",
+      "500",
+      "501"
+    ]
+  },
+  {
+    "Id": 61,
+    "Name": "卡迪根威尔士柯基犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "14"
+    ],
+    "Pic": "pic61",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "306",
+      "307",
+      "309",
+      "404"
+    ]
+  },
+  {
+    "Id": 62,
+    "Name": "彭布罗克威尔士柯基犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "14"
+    ],
+    "Pic": "pic62",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "306",
+      "307",
+      "309",
+      "404"
+    ]
+  },
+  {
+    "Id": 63,
+    "Name": "瑞典柯基犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "14"
+    ],
+    "Pic": "pic63",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 64,
+    "Name": "边境牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic64",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 65,
+    "Name": "喜乐蒂牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic65",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "309",
+      "407",
+      "500"
+    ]
+  },
+  {
+    "Id": 66,
+    "Name": "波利犬",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic66",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 4,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "401",
+      "402",
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 67,
+    "Name": "古代英国牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "14"
+    ],
+    "Pic": "pic67",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "405",
+      "406",
+      "500"
+    ]
+  },
+  {
+    "Id": 68,
+    "Name": "澳大利亚牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic68",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "500",
+      "501",
+      "404",
+      "306"
+    ]
+  },
+  {
+    "Id": 69,
+    "Name": "山地犬",
+    "Class": 3,
+    "Tags": [
+      "8",
+      "11"
+    ],
+    "Pic": "pic69",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3
+  },
+  {
+    "Id": 70,
+    "Name": "芬兰拉普猎犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic70",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "404",
+      "305",
+      "306",
+      "309",
+      "405",
+      "406",
+      "407"
+    ]
+  },
+  {
+    "Id": 71,
+    "Name": "澳大利亚牧牛犬",
+    "Class": 3,
+    "Tags": [
+      "14"
+    ],
+    "Pic": "pic71",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 72,
+    "Name": "冰岛牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic72",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "102",
+      "101",
+      "301",
+      "400",
+      "300",
+      "灰色"
+    ]
+  },
+  {
+    "Id": 73,
+    "Name": "波兰低地牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic73",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "201",
+      "202",
+      "203",
+      "405",
+      "406"
+    ]
+  },
+  {
+    "Id": 74,
+    "Name": "粗毛柯利犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic74",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "103",
+      "309",
+      "207",
+      "500"
+    ]
+  },
+  {
+    "Id": 75,
+    "Name": "挪威布哈德犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic75",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "100",
+      "101",
+      "102"
+    ]
+  },
+  {
+    "Id": 76,
+    "Name": "比利牛斯牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic76",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "102",
+      "400",
+      "401",
+      "202",
+      "203",
+      "204"
+    ]
+  },
+  {
+    "Id": 77,
+    "Name": "德国牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic77",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "403"
+    ]
+  },
+  {
+    "Id": 78,
+    "Name": "比利时马林诺斯犬（马犬）",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic78",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 79,
+    "Name": "格罗安达犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic79",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "400",
+      "404"
+    ]
+  },
+  {
+    "Id": 80,
+    "Name": "比利时坦比连犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic80",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 81,
+    "Name": "比利时拉坎诺斯牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic81",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 82,
+    "Name": "柯利犬（苏牧）",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic82",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "103",
+      "207",
+      "500",
+      "200"
+    ]
+  },
+  {
+    "Id": 83,
+    "Name": "法国狼犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11",
+      "10"
+    ],
+    "Pic": "pic83",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "403",
+      "400"
+    ]
+  },
+  {
+    "Id": 84,
+    "Name": "卡南犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic84",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "400",
+      "301",
+      "302",
+      "201",
+      "206"
+    ]
+  },
+  {
+    "Id": 85,
+    "Name": "布雷猎犬",
+    "Class": 3,
+    "Tags": [
+      "11"
+    ],
+    "Pic": "pic85",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "401",
+      "402",
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 86,
+    "Name": "弗兰德牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "14"
+    ],
+    "Pic": "pic86",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "401",
+      "402",
+      "椒盐色",
+      "虎斑色"
+    ]
+  },
+  {
+    "Id": 87,
+    "Name": "西伯利亚雪橇犬（哈士奇）",
+    "Class": 3,
+    "Tags": [
+      "15"
+    ],
+    "Pic": "pic87",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 88,
+    "Name": "萨摩耶犬",
+    "Class": 3,
+    "Tags": [
+      "15"
+    ],
+    "Pic": "pic88",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "302",
+      "102"
+    ]
+  },
+  {
+    "Id": 89,
+    "Name": "葡萄牙水犬",
+    "Class": 2,
+    "Tags": [
+      "5"
+    ],
+    "Pic": "pic89",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "200",
+      "300",
+      "301",
+      "302",
+      "404",
+      "306"
+    ]
+  },
+  {
+    "Id": 90,
+    "Name": "德国宾莎犬",
+    "Class": 3,
+    "Tags": [
+      "11"
+    ],
+    "Pic": "pic90",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "403",
+      "302"
+    ]
+  },
+  {
+    "Id": 91,
+    "Name": "标准型雪纳瑞",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "9"
+    ],
+    "Pic": "pic91",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "404",
+      "椒盐色"
+    ]
+  },
+  {
+    "Id": 92,
+    "Name": "藏獒",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "10"
+    ],
+    "Pic": "pic92",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "300",
+      "301",
+      "403",
+      "200",
+      "101",
+      "100",
+      "401"
+    ]
+  },
+  {
+    "Id": 93,
+    "Name": "卡斯罗",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "10"
+    ],
+    "Pic": "pic93",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "401",
+      "101",
+      "虎斑"
+    ]
+  },
+  {
+    "Id": 94,
+    "Name": "罗威纳犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "10"
+    ],
+    "Pic": "pic94",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "403"
+    ]
+  },
+  {
+    "Id": 95,
+    "Name": "短毛圣伯纳犬",
+    "Class": 3,
+    "Tags": [
+      "12"
+    ],
+    "Pic": "pic95",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "205",
+      "204"
+    ]
+  },
+  {
+    "Id": 96,
+    "Name": "长毛圣伯纳犬",
+    "Class": 3,
+    "Tags": [
+      "12"
+    ],
+    "Pic": "pic96",
+    "AdultBodySize": 4,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "205",
+      "204"
+    ]
+  },
+  {
+    "Id": 97,
+    "Name": "短毛阿拉斯加雪橇犬",
+    "Class": 3,
+    "Tags": [
+      "15"
+    ],
+    "Pic": "pic97",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "404",
+      "405",
+      "406"
+    ]
+  },
+  {
+    "Id": 98,
+    "Name": "长毛阿拉斯加雪橇犬",
+    "Class": 3,
+    "Tags": [
+      "15"
+    ],
+    "Pic": "pic98",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "404",
+      "405",
+      "406"
+    ]
+  },
+  {
+    "Id": 99,
+    "Name": "伯恩山犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "15",
+      "11"
+    ],
+    "Pic": "pic99",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "207"
+    ]
+  },
+  {
+    "Id": 100,
+    "Name": "波尔多犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "14",
+      "10"
+    ],
+    "Pic": "pic100",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 101,
+    "Name": "斗牛獒犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "10"
+    ],
+    "Pic": "pic101",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 102,
+    "Name": "匈牙利牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "13"
+    ],
+    "Pic": "pic102",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 4,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "200"
+    ]
+  },
+  {
+    "Id": 103,
+    "Name": "拳狮犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "10"
+    ],
+    "Pic": "pic103",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "305",
+      "306",
+      "307"
+    ]
+  },
+  {
+    "Id": 104,
+    "Name": "奇努克犬",
+    "Class": 3,
+    "Tags": [
+      "15"
+    ],
+    "Pic": "pic104",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "301",
+      "302",
+      "101"
+    ]
+  },
+  {
+    "Id": 105,
+    "Name": "巨型雪纳瑞",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "9"
+    ],
+    "Pic": "pic105",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "400",
+      "404",
+      "椒盐色"
+    ]
+  },
+  {
+    "Id": 106,
+    "Name": "秋田犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "10"
+    ],
+    "Pic": "pic106",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "404",
+      "306",
+      "307"
+    ]
+  },
+  {
+    "Id": 107,
+    "Name": "德系杜宾犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "10"
+    ],
+    "Pic": "pic107",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "400",
+      "300",
+      "301",
+      "401"
+    ]
+  },
+  {
+    "Id": 108,
+    "Name": "美系杜宾犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "10"
+    ],
+    "Pic": "pic107",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "400",
+      "300",
+      "301",
+      "401"
+    ]
+  },
+  {
+    "Id": 109,
+    "Name": "大丹犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "6"
+    ],
+    "Pic": "pic108",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "301",
+      "401",
+      "400",
+      "201",
+      "虎斑"
+    ]
+  },
+  {
+    "Id": 110,
+    "Name": "大白熊犬",
+    "Class": 3,
+    "Tags": [
+      "15",
+      "11"
+    ],
+    "Pic": "pic109",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "202",
+      "204"
+    ]
+  },
+  {
+    "Id": 111,
+    "Name": "兰波格犬",
+    "Class": 3,
+    "Tags": [
+      "15",
+      "11"
+    ],
+    "Pic": "pic110",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "102",
+      "101",
+      "301",
+      "402",
+      "200"
+    ]
+  },
+  {
+    "Id": 112,
+    "Name": "纽芬兰犬",
+    "Class": 3,
+    "Tags": [
+      "15"
+    ],
+    "Pic": "pic111",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "301",
+      "401",
+      "201"
+    ]
+  },
+  {
+    "Id": 113,
+    "Name": "马士提夫獒犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "12",
+      "8"
+    ],
+    "Pic": "pic112",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "101",
+      "102"
+    ]
+  },
+  {
+    "Id": 114,
+    "Name": "库瓦兹犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "13",
+      "14"
+    ],
+    "Pic": "pic113",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "102"
+    ]
+  },
+  {
+    "Id": 115,
+    "Name": "安纳托利亚牧羊犬",
+    "Class": 3,
+    "Tags": [
+      "11"
+    ],
+    "Pic": "pic114",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "201",
+      "207",
+      "400",
+      "101",
+      "402",
+      "300",
+      "301",
+      "103",
+      "500",
+      "淡101",
+      "204",
+      "虎斑"
+    ]
+  },
+  {
+    "Id": 116,
+    "Name": "黑俄罗斯梗",
+    "Class": 3,
+    "Tags": [
+      "9",
+      "11"
+    ],
+    "Pic": "pic115",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "400"
+    ]
+  },
+  {
+    "Id": 117,
+    "Name": "大瑞士山地犬",
+    "Class": 3,
+    "Tags": [
+      "13",
+      "11"
+    ],
+    "Pic": "pic116",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "207"
+    ]
+  },
+  {
+    "Id": 118,
+    "Name": "纽波利顿獒",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "10"
+    ],
+    "Pic": "pic117",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "400",
+      "401",
+      "402",
+      "301",
+      "302",
+      "100",
+      "101",
+      "102"
+    ]
+  },
+  {
+    "Id": 119,
+    "Name": "日本土佐犬",
+    "Class": 3,
+    "Tags": [
+      "11",
+      "10"
+    ],
+    "Pic": "pic118",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "301",
+      "300",
+      "302"
+    ]
+  },
+  {
+    "Id": 120,
+    "Name": "西高地白梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic119",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "200"
+    ]
+  },
+  {
+    "Id": 121,
+    "Name": "杰克罗素梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic120",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "204",
+      "201",
+      "207"
+    ]
+  },
+  {
+    "Id": 122,
+    "Name": "苏格兰梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic121",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "400",
+      "102",
+      "200",
+      "300"
+    ]
+  },
+  {
+    "Id": 123,
+    "Name": "刚毛猎狐梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic122",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "201",
+      "204",
+      "207"
+    ]
+  },
+  {
+    "Id": 124,
+    "Name": "小型雪纳瑞",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic123",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 2
+  },
+  {
+    "Id": 125,
+    "Name": "凯恩梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic124",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 1
+  },
+  {
+    "Id": 126,
+    "Name": "湖畔梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic125",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "401",
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 127,
+    "Name": "威尔士梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic126",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 128,
+    "Name": "短毛猎狐梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic127",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "201",
+      "205",
+      "204"
+    ]
+  },
+  {
+    "Id": 129,
+    "Name": "小型斗牛梗",
+    "Class": 4,
+    "Tags": [
+      "9",
+      "10"
+    ],
+    "Pic": "pic128",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "201"
+    ]
+  },
+  {
+    "Id": 130,
+    "Name": "帕尔森罗塞尔梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic129",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "201",
+      "204",
+      "207",
+      "301"
+    ]
+  },
+  {
+    "Id": 131,
+    "Name": "短脚长身梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic130",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "401",
+      "椒盐色",
+      "402",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 132,
+    "Name": "挪威梗（罗威士梗）",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic131",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "301"
+    ]
+  },
+  {
+    "Id": 133,
+    "Name": "捷克梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic132",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "401",
+      "椒盐色",
+      "402",
+      "302"
+    ]
+  },
+  {
+    "Id": 134,
+    "Name": "锡利哈姆梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic133",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "200",
+      "301"
+    ]
+  },
+  {
+    "Id": 135,
+    "Name": "诺福克梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic134",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "101",
+      "400",
+      "300",
+      "301",
+      "402"
+    ]
+  },
+  {
+    "Id": 136,
+    "Name": "玩具猎狐梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic135",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "207",
+      "204",
+      "201"
+    ]
+  },
+  {
+    "Id": 137,
+    "Name": "爱尔兰峡谷梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic136",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "102",
+      "101",
+      "椒盐色",
+      "402",
+      ""
+    ]
+  },
+  {
+    "Id": 138,
+    "Name": "澳大利亚梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic137",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 139,
+    "Name": "博得猎狐犬（边境梗）",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic138",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "100",
+      "301",
+      "300",
+      "黄褐色"
+    ]
+  },
+  {
+    "Id": 140,
+    "Name": "斗牛梗",
+    "Class": 4,
+    "Tags": [
+      "9",
+      "10"
+    ],
+    "Pic": "pic139",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "200",
+      "201"
+    ]
+  },
+  {
+    "Id": 141,
+    "Name": "贝灵顿梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic140",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "402",
+      "椒盐色",
+      "401",
+      "204"
+    ]
+  },
+  {
+    "Id": 142,
+    "Name": "万能梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic141",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 143,
+    "Name": "凯利蓝梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic142",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "深兰色"
+    ]
+  },
+  {
+    "Id": 144,
+    "Name": "美国恶霸犬",
+    "Class": 4,
+    "Tags": [
+      "10",
+      "11"
+    ],
+    "Pic": "pic143",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 1,
+    "EarType": 2
+  },
+  {
+    "Id": 145,
+    "Name": "斯塔福郡斗牛梗（比特犬）",
+    "Class": 4,
+    "Tags": [
+      "9",
+      "10"
+    ],
+    "Pic": "pic144",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "301",
+      "302",
+      "200"
+    ]
+  },
+  {
+    "Id": 146,
+    "Name": "爱尔兰梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic145",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "300",
+      "301",
+      "101",
+      "100"
+    ]
+  },
+  {
+    "Id": 147,
+    "Name": "美国斯塔福郡梗（美国斯塔福梗）",
+    "Class": 4,
+    "Tags": [
+      "9",
+      "10"
+    ],
+    "Pic": "pic146",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 148,
+    "Name": "爱尔兰软毛梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic147",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "101",
+      "102",
+      "302"
+    ]
+  },
+  {
+    "Id": 149,
+    "Name": "捕鼠梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic148",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 150,
+    "Name": "凯斯梗",
+    "Class": 4,
+    "Tags": [
+      "9"
+    ],
+    "Pic": "pic149",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 2
+  },
+  {
+    "Id": 151,
+    "Name": "短毛吉娃娃",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic150",
+    "AdultBodySize": 1,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "301",
+      "302",
+      "403",
+      "204",
+      "201",
+      "404",
+      "400"
+    ]
+  },
+  {
+    "Id": 152,
+    "Name": "长毛吉娃娃",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic151",
+    "AdultBodySize": 1,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "301",
+      "302",
+      "403",
+      "204",
+      "201",
+      "404",
+      "400"
+    ]
+  },
+  {
+    "Id": 153,
+    "Name": "博美犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic152",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "200",
+      "300",
+      "301",
+      "302",
+      "400",
+      "401",
+      "206"
+    ]
+  },
+  {
+    "Id": 154,
+    "Name": "马尔济斯犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic153",
+    "AdultBodySize": 1,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "200"
+    ]
+  },
+  {
+    "Id": 155,
+    "Name": "约克夏梗",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "9"
+    ],
+    "Pic": "pic154",
+    "AdultBodySize": 1,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 1
+  },
+  {
+    "Id": 156,
+    "Name": "巨型贵宾犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic155",
+    "AdultBodySize": 4,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 3,
+    "EarType": 3,
+    "Color": [
+      "401",
+      "402",
+      "301",
+      "302",
+      "102",
+      "200"
+    ]
+  },
+  {
+    "Id": 157,
+    "Name": "标准型贵宾犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic156",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "401",
+      "402",
+      "301",
+      "302",
+      "102",
+      "200"
+    ]
+  },
+  {
+    "Id": 158,
+    "Name": "迷你型贵宾犬（泰迪）",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic157",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "401",
+      "402",
+      "301",
+      "302",
+      "102",
+      "200"
+    ]
+  },
+  {
+    "Id": 159,
+    "Name": "玩具型贵宾犬（泰迪）",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic158",
+    "AdultBodySize": 1,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 1,
+    "EarType": 3,
+    "Color": [
+      "401",
+      "402",
+      "301",
+      "302",
+      "102",
+      "200"
+    ]
+  },
+  {
+    "Id": 160,
+    "Name": "蝴蝶犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic159",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "201",
+      "205",
+      "204",
+      "206"
+    ]
+  },
+  {
+    "Id": 161,
+    "Name": "巴哥犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic160",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 1,
+    "EarType": 3,
+    "Color": [
+      "402",
+      "102",
+      "400"
+    ]
+  },
+  {
+    "Id": 162,
+    "Name": "西施犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic161",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3
+  },
+  {
+    "Id": 163,
+    "Name": "京巴",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic162",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 1,
+    "EarType": 3,
+    "Color": [
+      "200",
+      "301",
+      "302",
+      "304",
+      "400"
+    ]
+  },
+  {
+    "Id": 164,
+    "Name": "迷你杜宾",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic163",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "403"
+    ]
+  },
+  {
+    "Id": 165,
+    "Name": "中国冠毛犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic164",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 8,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 166,
+    "Name": "哈瓦那犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic165",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3
+  },
+  {
+    "Id": 167,
+    "Name": "丝毛梗",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "9"
+    ],
+    "Pic": "pic166",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 1
+  },
+  {
+    "Id": 168,
+    "Name": "意大利灰狗",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic167",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2
+  },
+  {
+    "Id": 169,
+    "Name": "骑士查理王猎犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic168",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "207",
+      "301",
+      "204",
+      "205",
+      "206",
+      "403",
+      "404",
+      ""
+    ]
+  },
+  {
+    "Id": 170,
+    "Name": "日本狆（日本跳狗）",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic169",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "201",
+      "204",
+      "207"
+    ]
+  },
+  {
+    "Id": 171,
+    "Name": "玩具曼彻斯特犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic170",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "403"
+    ]
+  },
+  {
+    "Id": 172,
+    "Name": "猴头梗（艾芬品/猴犬）",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "9"
+    ],
+    "Pic": "pic171",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 2,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "401",
+      "椒盐色",
+      "402",
+      "300",
+      "301"
+    ]
+  },
+  {
+    "Id": 173,
+    "Name": "英国玩具犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic172",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "201",
+      "207",
+      "204",
+      "206",
+      "403"
+    ]
+  },
+  {
+    "Id": 174,
+    "Name": "布鲁塞尔格里芬犬",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "9"
+    ],
+    "Pic": "pic173",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 2,
+    "NoseType": 1,
+    "EarType": 2,
+    "Color": [
+      "400",
+      "灰色",
+      "300",
+      "301",
+      "101",
+      "102"
+    ]
+  },
+  {
+    "Id": 175,
+    "Name": "卷毛比雄犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic174",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 3,
+    "NoseType": 2,
+    "EarType": 3,
+    "Color": [
+      "200"
+    ]
+  },
+  {
+    "Id": 176,
+    "Name": "拉萨犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic175",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3
+  },
+  {
+    "Id": 177,
+    "Name": "西藏猎犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic176",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3
+  },
+  {
+    "Id": 178,
+    "Name": "西帕基犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic177",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "400"
+    ]
+  },
+  {
+    "Id": 179,
+    "Name": "罗秦犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic178",
+    "AdultBodySize": 2,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 3
+  },
+  {
+    "Id": 180,
+    "Name": "短毛松狮",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "15",
+      "11"
+    ],
+    "Pic": "pic179",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "300",
+      "301",
+      "302",
+      "400",
+      "401",
+      "101",
+      "102",
+      "200"
+    ]
+  },
+  {
+    "Id": 181,
+    "Name": "长毛松狮",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "15",
+      "11"
+    ],
+    "Pic": "pic180",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "300",
+      "301",
+      "302",
+      "400",
+      "401",
+      "101",
+      "102",
+      "200"
+    ]
+  },
+  {
+    "Id": 182,
+    "Name": "柴犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic181",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "306",
+      "307",
+      "黄色加白",
+      "深黄色加白",
+      "浅黄色加白",
+      "404"
+    ]
+  },
+  {
+    "Id": 183,
+    "Name": "法国斗牛犬",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "11"
+    ],
+    "Pic": "pic182",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 1,
+    "EarType": 1,
+    "Color": [
+      "虎斑色",
+      "200",
+      "400",
+      "205",
+      "204",
+      "206",
+      "201",
+      "102"
+    ]
+  },
+  {
+    "Id": 184,
+    "Name": "英国斗牛犬",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "11"
+    ],
+    "Pic": "pic183",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 1,
+    "EarType": 2,
+    "Color": [
+      "虎斑色",
+      "200",
+      "305",
+      "306",
+      "307",
+      "205",
+      "204",
+      "206"
+    ]
+  },
+  {
+    "Id": 185,
+    "Name": "大麦町犬（斑点狗）",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic184",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 3,
+    "EarType": 2,
+    "Color": [
+      "201",
+      "205"
+    ]
+  },
+  {
+    "Id": 186,
+    "Name": "美国爱斯基摩犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic185",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 3,
+    "EarType": 1,
+    "Color": [
+      "200"
+    ]
+  },
+  {
+    "Id": 187,
+    "Name": "中国沙皮犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic186",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 1,
+    "EarType": 2
+  },
+  {
+    "Id": 188,
+    "Name": "波士顿梗",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "9"
+    ],
+    "Pic": "pic187",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 1,
+    "NoseType": 1,
+    "EarType": 1,
+    "Color": [
+      "404",
+      "405"
+    ]
+  },
+  {
+    "Id": 189,
+    "Name": "西藏梗",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic188",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 3
+  },
+  {
+    "Id": 190,
+    "Name": "墨西哥无毛犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic189",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 8,
+    "NoseType": 3,
+    "EarType": 1
+  },
+  {
+    "Id": 191,
+    "Name": "荷兰毛狮犬",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic190",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 5,
+    "NoseType": 2,
+    "EarType": 1
+  },
+  {
+    "Id": 192,
+    "Name": "芬兰波美拉尼亚丝毛狗",
+    "Class": 5,
+    "Tags": [
+      "16"
+    ],
+    "Pic": "pic191",
+    "AdultBodySize": 3,
+    "Type": 1,
+    "Pelage": 6,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "300",
+      "301",
+      "302"
+    ]
+  },
+  {
+    "Id": 193,
+    "Name": "挪威伦德猎犬",
+    "Class": 5,
+    "Tags": [
+      "16",
+      "2"
+    ],
+    "Pic": "pic192",
+    "AdultBodySize": 5,
+    "Type": 1,
+    "Pelage": 7,
+    "NoseType": 2,
+    "EarType": 1,
+    "Color": [
+      "400",
+      "401",
+      "305",
+      "404"
+    ]
+  },
+  {
+    "Id": 1000,
+    "Name": "中华田园猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic183",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 0,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1001,
+    "Name": "暹罗猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic184",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1002,
+    "Name": "布偶猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic185",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1003,
+    "Name": "苏格兰折耳猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic186",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1004,
+    "Name": "英国短毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic187",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1005,
+    "Name": "波斯猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic188",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1006,
+    "Name": "俄罗斯蓝猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic189",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1007,
+    "Name": "美国短毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic190",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1008,
+    "Name": "异国短毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic191",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1009,
+    "Name": "挪威森林猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic192",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1010,
+    "Name": "孟买猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic193",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1011,
+    "Name": "缅因猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic194",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1012,
+    "Name": "埃及猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic195",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1013,
+    "Name": "伯曼猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic196",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1014,
+    "Name": "斯芬克斯猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic197",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 8,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1015,
+    "Name": "缅甸猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic198",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1016,
+    "Name": "阿比西尼亚猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic199",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1017,
+    "Name": "新加坡猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic200",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1018,
+    "Name": "索马里猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic201",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1019,
+    "Name": "土耳其梵猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic202",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1020,
+    "Name": "中国狸花猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic203",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1021,
+    "Name": "美国短尾猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic204",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1022,
+    "Name": "西伯利亚森林猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic205",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1023,
+    "Name": "日本短尾猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic206",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1024,
+    "Name": "巴厘猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic207",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1025,
+    "Name": "土耳其安哥拉猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic208",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1026,
+    "Name": "褴褛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic209",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 7,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1027,
+    "Name": "东奇尼猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic210",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1028,
+    "Name": "马恩岛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic211",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1029,
+    "Name": "柯尼斯卷毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic212",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 3,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1030,
+    "Name": "奥西猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic213",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1031,
+    "Name": "沙特尔猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic214",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1032,
+    "Name": "德文卷毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic215",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 3,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1033,
+    "Name": "美国刚毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic216",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 2,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1034,
+    "Name": "呵叻猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic217",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1035,
+    "Name": "重点色短毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic218",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1036,
+    "Name": "哈瓦那棕猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic219",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1037,
+    "Name": "波米拉猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic220",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1038,
+    "Name": "塞尔凯克卷毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic221",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 3,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1039,
+    "Name": "拉邦猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic222",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 3,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1040,
+    "Name": "美国卷毛猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic223",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 3,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1041,
+    "Name": "东方猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic224",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  },
+  {
+    "Id": 1042,
+    "Name": "欧洲缅甸猫",
+    "Class": 0,
+    "Tags": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Pic": "pic225",
+    "AdultBodySize": 0,
+    "Type": 2,
+    "Pelage": 1,
+    "NoseType": 0,
+    "EarType": 0
+  }
+]
+}

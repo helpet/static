@@ -1,0 +1,45 @@
+﻿{
+  "BaiKe": [
+    {
+      "Id": "564c3b1e8aaa4b2a8c000001",
+      "Name": "狗狗的毛发的养护规则",
+      "Type": 1,
+      "Suggested": 1
+    },
+    {
+      "Id": "564c44958aaa4b2a8c000003",
+      "Name": "狗狗皮肤的清洁与健康",
+      "Type": 3,
+      "Suggested": 1
+    },
+    {
+      "Id": "564acc5e8aaa4b212c000012",
+      "Name": "狗狗的疫苗接种常识",
+      "Type": 3,
+      "Suggested": 1
+    },
+    {
+      "Id": "566fba4f8aaa4b1b98000001",
+      "Name": "狗狗呕吐的常见情况",
+      "Type": 3,
+      "Suggested": 1
+    }
+  ],
+  "TypeConfig": [
+    {
+      "Type": 1,
+      "Name": "美容知识",
+      "ItemIcon": "peticon0022.png"
+    },
+    {
+      "Type": 2,
+      "Name": "行为查询",
+      "ItemIcon": "peticon0021.png"
+    },
+    {
+      "Type": 3,
+      "Name": "健康相关",
+      "ItemIcon": "peticon0020.png"
+    }
+  ]
+}

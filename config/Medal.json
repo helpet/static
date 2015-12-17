@@ -1,0 +1,27 @@
+[
+	{
+		"name":"明星金账号",
+		"imageUrl_big":"medal05",
+		"imageUrl_small":"medal01",
+		"id":"1",
+		"introduce":"宠爱帮寻找明星狗大赛活动冠亚军奖章。"
+	},{
+		"name":"明星奖章",
+		"imageUrl_big":"medal06",
+		"imageUrl_small":"medal02",
+		"id":"2",
+		"introduce":"宠爱帮寻找明星狗大赛活动3~10名。"
+	},{
+		"name":"明日之星",
+		"imageUrl_big":"medal09",
+		"imageUrl_small":"medal07",
+		"id":"3",
+		"introduce":"寻找明星狗活动踊跃参与者！你就是明星！"
+	},{
+		"name":"真爱粉",
+		"imageUrl_big":"medal10",
+		"imageUrl_small":"medal08",
+		"id":"4",
+		"introduce":"献给为宠爱帮做出突出贡献的你。"
+	}
+]

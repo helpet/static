@@ -1,0 +1,102 @@
+﻿{
+    "level1":{
+        "Level":1,
+        "PromoteIds":[{"201":"350 → 400"}],
+        "Score":150,
+        "ChatroomsCount":1,
+        "EmotionCharge":0.95,
+        "Pendant":0.95,
+        "FocusCount": 50,
+        "ShowIcon":"vip_30",
+        "Icon":"vip_42"
+    },
+    "level2":{
+        "Level":2,
+        "PromoteIds":[{"201":"400 → 450"},{"202":"1 → 2"}],
+        "Score":300,
+        "ChatroomsCount":1,
+        "EmotionCharge":0.9,
+        "Pendant":0.9,
+        "FocusCount": 100,
+        "ShowIcon":"vip_31",
+        "Icon":"vip_43"
+    },
+    "level3":{
+        "Level":3,
+        "PromoteIds":[{"201":"450 → 500"}],
+        "Score":600,
+        "ChatroomsCount":2,
+        "EmotionCharge":0.85,
+        "Pendant":0.85,
+        "FocusCount": 150,
+        "ShowIcon":"vip_32",
+        "Icon":"vip_44"
+    },
+    "level4":{
+        "Level":1,
+        "PromoteIds":[{"201":"500 → 550"},{"202":"2 → 5"}],
+        "Score":1000,
+        "ChatroomsCount":2,
+        "EmotionCharge":0.8,
+        "Pendant":0.8,
+        "FocusCount": 200,
+        "ShowIcon":"vip_33",
+        "Icon":"vip_45"
+    },
+    "level5":{
+        "Level":2,
+        "PromoteIds":[{"201":"550 → 600"}],
+        "Score":1500,
+        "ChatroomsCount":5,
+        "EmotionCharge":0.75,
+        "Pendant":0.75,
+        "FocusCount": 250,
+        "ShowIcon":"vip_34",
+        "Icon":"vip_46"
+    },
+    "level6":{
+        "Level":3,
+        "PromoteIds":[{"201":"600 → 650"}],
+        "Score":2500,
+        "ChatroomsCount":5,
+        "EmotionCharge":0.7,
+        "Pendant":0.7,
+        "FocusCount": 300,
+        "ShowIcon":"vip_35",
+        "Icon":"vip_47"
+    },
+    "level7":{
+        "Level":1,
+        "PromoteIds":[{"201":"650 → 700"}],
+        "Score":4000,
+        "ChatroomsCount":5,
+        "EmotionCharge":0.65,
+        "Pendant":0.65,
+        "FocusCount": 350,
+        "ShowIcon":"vip_36",
+        "Icon":"vip_48"
+    },
+    "level8":{
+        "Level":2,
+        "PromoteIds":[{"201":"700 → 无上限"},{"202":"5 → 10"}],
+        "Score":6000,
+        "ChatroomsCount":5,
+        "EmotionCharge":0.6,
+        "Pendant":0.6,
+        "FocusCount": 400,
+        "ShowIcon":"vip_37",
+        "Icon":"vip_49"
+    },
+    "level9":{
+        "Level":3,
+        "PromoteIds":[],
+        "Score":-1,
+        "ChatroomsCount":10,
+        "EmotionCharge":0.55,
+        "Pendant":0.55,
+        "FocusCount": -1,
+        "ShowIcon":"vip_38",
+        "Icon":"vip_50"
+    },
+    "HotIds":[101,201,202,103]
+}
