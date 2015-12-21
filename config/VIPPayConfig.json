@@ -1,106 +1,32 @@
+[{
+    "Title": "1个月VIP",
+    "Month": 1,
+    "Price": 12,
+    "ScoreAdd": 0,
+    "ProductionId": "vip_1",
+    "IapId": "com.taro.pet.vip001"
+},
 {
-    "sms": [
-        {
-            "Month": 1,
-            "Price": 10,
-            "ScoreAdd": 0,
-            "Smskeyword": "58"
-        },
-        {
-            "Month": 3,
-            "Price": 30,
-            "ScoreAdd": 0,
-            "Smskeyword": "68"
-        },
-        {
-            "Month": 6,
-            "Price": 55,
-            "ScoreAdd": 300,
-            "Smskeyword": "78"
-        },
-        {
-            "Month": 12,
-            "Price": 100,
-            "ScoreAdd": 1000,
-            "Smskeyword": "88"
-        }
-    ],
-    "weixin": [
-        {
-            "Month": 1,
-            "Price": 10,
-            "ScoreAdd": 0
-        },
-        {
-            "Month": 3,
-            "Price": 33,
-            "ScoreAdd": 0
-        },
-        {
-            "Month": 6,
-            "Price": 50,
-            "ScoreAdd": 300
-        },
-        {
-            "Month": 12,
-            "Price": 120,
-            "ScoreAdd": 1000
-        }
-    ],
-    "apple": [
-        {
-            "Month": 1,
-            "Price": 12,
-            "ScoreAdd": 0,
-            "ProductionId": "com.taro.pet.vip001"
-        },
-        {
-            "Month": 3,
-            "Price": 30,
-            "ScoreAdd": 0,
-            "ProductionId": "com.taro.pet.vip002"
-        },
-        {
-            "Month": 6,
-            "Price": 60,
-            "ScoreAdd": 300,
-            "ProductionId": "com.taro.pet.vip003"
-        },
-        {
-            "Month": 12,
-            "Price": 108,
-            "ScoreAdd": 1000,
-            "ProductionId": "com.taro.pet.vip004"
-        }
-    ],
-    "alipay": [
-        {
-            "Title": "1个月VIP",
-            "Month": 1,
-            "Price": 0.01,
-            "ScoreAdd": 0,
-            "ProductionId": "com.taro.pet.vip0"
-        },
-        {
-            "Title": "3个月VIP",
-            "Month": 3,
-            "Price": 0.03,
-            "ScoreAdd": 0,
-            "ProductionId": "com.taro.pet.vip2"
-        },
-        {
-            "Title": "6个月VIP",
-            "Month": 6,
-            "Price": 0.06,
-            "ScoreAdd": 300,
-            "ProductionId": "com.taro.pet.vip3"
-        },
-        {
-            "Title": "12个月VIP",
-            "Month": 12,
-            "Price": 0.12,
-            "ScoreAdd": 2000,
-            "ProductionId": "com.taro.pet.vip4"
-        }
-    ]
-}
+    "Title": "3个月VIP",
+    "Month": 3,
+    "Price": 30,
+    "ScoreAdd": 0,
+    "ProductionId": "vip_3",
+    "IapId": "com.taro.pet.vip002"
+},
+{
+    "Title": "6个月VIP",
+    "Month": 6,
+    "Price": 60,
+    "ScoreAdd": 300,
+    "ProductionId": "vip_6",
+    "IapId": "com.taro.pet.vip003"
+},
+{
+    "Title": "12个月VIP",
+    "Month": 12,
+    "Price": 108,
+    "ScoreAdd": 1000,
+    "ProductionId": "vip_12",
+    "IapId": "com.taro.pet.vip004"
+}]
