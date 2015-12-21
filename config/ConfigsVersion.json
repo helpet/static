@@ -5,13 +5,13 @@
 	"ArticleBackgrounds":"1.2",
     "BaiKe":"1.9",
     "Medal":"1.2",
-    "Pendants":"2.6",
+    "Pendants":"2.7",
 	"PetKinds":"1.8",
     "Topic":"1.2",
     "TrainCourses":"1.5",
     "TRWeixinActivities":"1.1",
 	"VIPConfig":"1.5",
-	"VIPPayConfig":"1.3",
+	"VIPPayConfig":"1.4",
 	"VIPPromoteConfig":"1.6",
     "HomePageBannerConfig":"1.0"
 }
