@@ -1,7 +1,7 @@
 [{
     "Title": "1个月VIP",
     "Month": 1,
-    "Price": 12,
+    "Price": 0.01,
     "ScoreAdd": 0,
     "ProductionId": "vip_1",
     "IapId": "com.taro.pet.vip001"
