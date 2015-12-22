@@ -21,7 +21,7 @@
          "images":["headgear04_vip","headgear12_vip"],
          "title":"付费测试1",
          "icon":"headgear27",
-         "basePrice":1,
+         "basePrice":0.01,
          "productionId":"pendant_2",
          "iapId":"com.taro.pet.vip001",
          "isVIP":0
@@ -30,7 +30,7 @@
          "images":["headgear21_vip","headgear22_vip"],
          "title":"付费测试2",
          "icon":"headgear27",
-         "basePrice":1,
+         "basePrice":0.02,
          "productionId":"pendant_3",
          "iapId":"com.taro.pet.vip002",
          "isVIP":0
