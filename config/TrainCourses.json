@@ -29,6 +29,16 @@
       "DefaultSignal": "",
       "Introduction": "每一只狗狗都会有属于自己的名字，此项训练目的是当你叫出狗狗名字时，它能快速的响应，并等待下一步指令。名字是日常生活中用到的最频繁的指令了。如果已经学习过，不妨也可以看看。",
       "PreCourseTags": []
+    },
+    {
+      "CourseId": 5,
+      "Name": "P链的使用规则",
+      "SkillName": "使用P链",
+      "Type": 22,
+      "StepCount": 4,
+      "DefaultSignal": "",
+      "Introduction": "由于很多人不明白P链的作用，加上商家广告错误的引导，大多数人对P链的理解存在误区，此文将教会大家如何正确使用P链，以及让宠物初步接受。",
+      "PreCourseTags": []
     }
   ],
   "TypeConfig": {
